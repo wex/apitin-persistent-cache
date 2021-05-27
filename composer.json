@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Apitin\\Cache\\": "src/"
+            "Apitin\\PersistentCache\\": "src/"
         }
     }
 }
