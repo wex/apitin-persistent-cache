@@ -1,0 +1,21 @@
+{
+    "name": "apitin/cache",
+    "description": "Caching",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Niko Hujanen",
+            "email": "niko.hujanen@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0.0",
+        "predis/predis": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apitin\\Cache\\": "src/"
+        }
+    }
+}
