@@ -1,6 +1,6 @@
 {
-    "name": "apitin/cache",
-    "description": "Caching",
+    "name": "apitin/persistent-cache",
+    "description": "Persistent caching with Redis",
     "type": "package",
     "authors": [
         {
